@@ -3,6 +3,11 @@
 
 #define INIT_SIZE 100
 
+#define NORTH 'w'
+#define SOUTH 's'
+#define EAST 'd'
+#define WEST 'a'
+
 /*
 Stack structure:
     - size (int): the amount of items left in the stack
